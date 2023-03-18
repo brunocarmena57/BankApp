@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\bin\Debug\net7.0\DIO.Bank.exe
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\bin\Debug\net7.0\DIO.Bank.deps.json
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\bin\Debug\net7.0\DIO.Bank.runtimeconfig.json
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\bin\Debug\net7.0\DIO.Bank.dll
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\bin\Debug\net7.0\DIO.Bank.pdb
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\obj\Debug\net7.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\obj\Debug\net7.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\obj\Debug\net7.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\obj\Debug\net7.0\DIO.Bank.AssemblyInfo.cs
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\obj\Debug\net7.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\obj\Debug\net7.0\DIO.Bank.dll
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\obj\Debug\net7.0\refint\DIO.Bank.dll
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\obj\Debug\net7.0\DIO.Bank.pdb
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\obj\Debug\net7.0\DIO.Bank.genruntimeconfig.cache
+C:\Users\PC\Desktop\vscode\C# Course\Aplicação Bancária .NET março 2023\DIO.Bank\obj\Debug\net7.0\ref\DIO.Bank.dll
