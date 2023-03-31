@@ -4,7 +4,6 @@ namespace DIO.Bank
 {
     class Program
     {
-
         static List<Conta> listContas = new List<Conta>();
 
         static void Main(string[] args)
